@@ -1,5 +1,7 @@
 /* Write your CSS here! */
-
+body {
+    background: linear-gradient(to top, #30cfd0 0%, #330867 100%);
+}
 
 
 
