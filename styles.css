@@ -1,6 +1,6 @@
 /* Write your CSS here! */
 title {
-    font-family: 'Ninja Naruto', sans-serif, #d08530;
+    color: #d08530;
 }
 body {
     background: linear-gradient(to top, #30cfd0 0%, #330867 100%);
