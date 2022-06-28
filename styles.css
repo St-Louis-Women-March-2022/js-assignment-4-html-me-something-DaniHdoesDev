@@ -1,6 +1,6 @@
 /* Write your CSS here! */
 h1 {
-    color: linear-gradient(to right, rgb(252, 74, 26), rgb(247, 183, 51));
+    color: #d08530;
     font-family: 'Ninja Naruto';
     font-style: normal;
     font-weight: 400;
@@ -11,7 +11,7 @@ body {
     background: linear-gradient(to top, #30cfd0 0%, #330867 100%);
 }
 header{
-    color: linear-gradient(to right, rgb(252, 74, 26), rgb(247, 183, 51));
+    color: #d08530;
     font-family: 'Ninja Naruto';
     font-style: normal;
     src: local('Ninja Naruto'), url('https://fonts.cdnfonts.com/s/9809/njnaruto.woff') format('woff');
