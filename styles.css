@@ -8,7 +8,7 @@ h1 {
     src: local('Ninja Naruto'), url('https://fonts.cdnfonts.com/s/9809/njnaruto.woff') format('woff');
 }
 body {
-    background: linear-gradient(to top, #30cfd0 0%, #330867 100%);
+    background: linear-gradient(to top, #d08530, #30cfd0 0%, #330867 100%);
 }
 header{
     color: #d08530;
