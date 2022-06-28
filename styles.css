@@ -4,6 +4,7 @@ h1 {
     font-family: 'Ninja Naruto';
     font-style: normal;
     font-weight: 400;
+    font-size: x-large;
     src: local('Ninja Naruto'), url('https://fonts.cdnfonts.com/s/9809/njnaruto.woff') format('woff');
 }
 body {
