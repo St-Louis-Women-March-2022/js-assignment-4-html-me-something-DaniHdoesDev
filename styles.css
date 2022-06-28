@@ -8,7 +8,7 @@ h1 {
     src: local('Ninja Naruto'), url('https://fonts.cdnfonts.com/s/9809/njnaruto.woff') format('woff');
 }
 body {
-    background: linear-gradient(to top, #30cfd0 0%, #330867 100%);
+    background: linear-gradient(to top, #30cfd0 0%, #0d045e 100%);
 }
 header{
     color: rgba(252, 79, 26, 0.918);
@@ -17,7 +17,7 @@ header{
     src: local('Ninja Naruto'), url('https://fonts.cdnfonts.com/s/9809/njnaruto.woff') format('woff');
 }
 footer{
-    color: rgba(26, 67, 252, 0.918);
+    color: rgba(4, 20, 92, 0.918);
     font-family: 'Ninja Naruto';
     font-style: normal;
     src: local('Ninja Naruto'), url('https://fonts.cdnfonts.com/s/9809/njnaruto.woff') format('woff');
