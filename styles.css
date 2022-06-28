@@ -16,6 +16,12 @@ header{
     font-style: normal;
     src: local('Ninja Naruto'), url('https://fonts.cdnfonts.com/s/9809/njnaruto.woff') format('woff');
 }
+footer{
+    color: rgba(26, 67, 252, 0.918);
+    font-family: 'Ninja Naruto';
+    font-style: normal;
+    src: local('Ninja Naruto'), url('https://fonts.cdnfonts.com/s/9809/njnaruto.woff') format('woff');
+}
 
 
 
