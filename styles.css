@@ -24,8 +24,9 @@ h2{
 }
 footer{
     color: rgba(4, 20, 92, 0.918);
-    background-color:#d08530; 
+    background-color:#fc0b0b; 
     font-weight: bold;
+    font-size: small;
     font-family: 'Ninja Naruto';
     font-style: normal;
     src: local('Ninja Naruto'), url('https://fonts.cdnfonts.com/s/9809/njnaruto.woff') format('woff');
