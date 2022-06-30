@@ -24,7 +24,7 @@ h2{
 }
 footer{
     color: rgba(4, 20, 92, 0.918);
-    background-color:#d08530 
+    background-color:#d08530; 
     font-weight: bold;
     font-family: 'Ninja Naruto';
     font-style: normal;
@@ -37,8 +37,5 @@ footer{
     width: 100%;
     grid-area: footer; 
 }
-
-
-
 
 
