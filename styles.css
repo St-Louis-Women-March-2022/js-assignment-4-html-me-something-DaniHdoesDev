@@ -26,7 +26,7 @@ footer{
     color: rgba(4, 20, 92, 0.918);
     background-color:#fc0b0b; 
     font-weight: bold;
-    font-size: xx-small;
+    font-size: x-small;
     font-family: 'Ninja Naruto';
     font-style: normal;
     src: local('Ninja Naruto'), url('https://fonts.cdnfonts.com/s/9809/njnaruto.woff') format('woff');
@@ -35,7 +35,7 @@ footer{
     position: fixed;
     bottom: 0;
     left: 0; 
-    width: 100%;
+    width: 50%;
     grid-area: footer; 
 }
 
