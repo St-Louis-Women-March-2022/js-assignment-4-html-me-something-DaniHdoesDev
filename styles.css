@@ -15,6 +15,7 @@ header{
     font-family: 'Ninja Naruto';
     font-style: normal;
     src: local('Ninja Naruto'), url('https://fonts.cdnfonts.com/s/9809/njnaruto.woff') format('woff');
+    margin-left: auto;
 }
 h2{
     color: rgba(245, 8, 8, 0.918);
@@ -23,19 +24,19 @@ h2{
     src: local('Ninja Naruto'), url('https://fonts.cdnfonts.com/s/9809/njnaruto.woff') format('woff');
 }
 footer{
-    color: rgba(4, 20, 92, 0.918);
-    background-color:#fc0b0b; 
-    font-weight: bold;
+    color: #f31c09(4, 20, 92, 0.918);
+   /* background-color:#66bcf5; */
+    font-weight: normal;
     font-size: x-small;
     font-family: 'Ninja Naruto';
     font-style: normal;
     src: local('Ninja Naruto'), url('https://fonts.cdnfonts.com/s/9809/njnaruto.woff') format('woff');
-    text-align: center;
-    padding: 2px;
+    text-align: right;
+    padding: 0px;
     position: fixed;
     bottom: 0;
     left: 0; 
-    width: 50%;
+    width: 100%;
     grid-area: footer; 
 }
 
