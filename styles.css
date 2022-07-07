@@ -1,1 +1,43 @@
 /* Write your CSS here! */
+h1 {
+    color: #d08530;
+    font-family: 'Ninja Naruto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 400%;
+    src: local('Ninja Naruto'), url('https://fonts.cdnfonts.com/s/9809/njnaruto.woff') format('woff');
+}
+body {
+    background: linear-gradient(to top, #30cfd0 0%, #0d045e 100%);
+}
+header{
+    color: rgba(252, 79, 26, 0.918);
+    font-family: 'Ninja Naruto';
+    font-style: normal;
+    src: local('Ninja Naruto'), url('https://fonts.cdnfonts.com/s/9809/njnaruto.woff') format('woff');
+    margin-left: auto;
+}
+h2{
+    color: rgba(245, 8, 8, 0.918);
+    font-family: 'Ninja Naruto';
+    font-style: normal;
+    src: local('Ninja Naruto'), url('https://fonts.cdnfonts.com/s/9809/njnaruto.woff') format('woff');
+}
+footer{
+    color: #f31c09(4, 20, 92, 0.918);
+   /* background-color:#66bcf5; */
+    font-weight: normal;
+    font-size: x-small;
+    font-family: 'Ninja Naruto';
+    font-style: normal;
+    src: local('Ninja Naruto'), url('https://fonts.cdnfonts.com/s/9809/njnaruto.woff') format('woff');
+    text-align: right;
+    padding: 0px;
+    position: fixed;
+    bottom: 0;
+    left: 0; 
+    width: 100%;
+    grid-area: footer; 
+}
+
+
